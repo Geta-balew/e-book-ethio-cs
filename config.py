@@ -26,7 +26,8 @@ _default_instructions = (
     "\n"
     "👉 ቁጥሮቹን በመንካት በቀላሉ ኮፒ ማድረግ ይችላሉ!\n\n"
     "✅ ክፍያውን ከፈጸሙ በኋላ ከታች ያለውን ከፈልኩ የሚለውን ይጫኑ እና የክፍያ ማረጋገጫ ስክሪንሾት ይላኩልን።\n\n"
-    "📞 ክፍያ ሲፈጽሙ ማንኛውም አይነት ችግር ከገጠመዎ ወይም ያልገባዎት ነገር ካለ 0911410963 ቀጥታ መደወል ይችላሉ!"
+    "Automatic ክፍያ ከፈለጉ ደግሞ በዚህ ሊንክ https://ye-buna.com/ethiocs?ref=product_detail&product=6aac8374c73bc_ethiocs መግዛት ይችላሉ!\n\n\n"
+    "📞 ክፍያ ሲፈጽሙ ማንኛውም አይነት ችግር ከገጠመዎ ወይም ያልገባዎት ነገር ካለ @ethiocomputerdubai በቀጥታ ያገኙናል!"
 )
 # .env files store literal text, so a real newline can't live inside one
 # value — we write \n in .env and turn it back into a real newline here.
