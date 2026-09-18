@@ -31,7 +31,7 @@ _default_instructions = (
 )
 # .env files store literal text, so a real newline can't live inside one
 # value — we write \n in .env and turn it back into a real newline here.
-PAYMENT_INSTRUCTIONS = os.getenv("PAYMENT_INSTRUCTIONS", _default_instructions).replace("\\n", "\n")
+PAYMENT_INSTRUCTIONS = _default_instructions
 
 DEFAULT_CURRENCY = os.getenv("DEFAULT_CURRENCY", "ETB")
 DB_PATH = os.getenv("DB_PATH", "ebook_catalog.db")
